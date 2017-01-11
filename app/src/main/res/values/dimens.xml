@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="card_view_padding">4dp</dimen>
+    <dimen name="cardview_image_padding">4dp</dimen>
+    <dimen name="cardview_name_size">14sp</dimen>
+    <dimen name="reycler_view_optionsApp_padding">5dp</dimen>
+    <dimen name="elevation_cardview">4dp</dimen>
+    <dimen name="corner_radius_cardview">5dp</dimen>
+</resources>
